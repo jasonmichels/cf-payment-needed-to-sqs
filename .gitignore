@@ -21,3 +21,5 @@
 go.work
 main
 getpaymentneeded.zip
+.idea
+bootstrap
